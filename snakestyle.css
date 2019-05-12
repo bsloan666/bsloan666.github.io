@@ -13,6 +13,14 @@ a:link {
 a:hover {
     color: #999999;
 }
+div.divBelt {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    background-color: #000000;
+    opacity: 0.8;
+}
 div.divFooter {
     position: fixed;
     bottom: 0;
